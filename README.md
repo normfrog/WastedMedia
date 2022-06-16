@@ -1,0 +1,2 @@
+# WastedMedia
+webcomic project
